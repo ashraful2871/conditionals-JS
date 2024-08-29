@@ -1,4 +1,4 @@
-const age = 17;
+const age = 12;
 
 if (age < 12) {
   console.log("you can eat free");
