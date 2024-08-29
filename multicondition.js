@@ -29,9 +29,9 @@ const hasCar = false;
 // }
 
 //-------------------COMPLEX CONDITION-------------------
-if ((salary > 25000 && hasCar == true) || isBCS == true) {
-  console.log("amra soby raji");
-}
+// if ((salary > 25000 && hasCar == true) || isBCS == true) {
+//   console.log("amra soby raji");
+// }
 
 if ((salary > 25000 || hasCar == true) && isBCS == true) {
   console.log("amra soby raji");
